@@ -1,13 +1,12 @@
 ## epoch of the monochrome 
 June
  
--
 __________
 
 *street at nacht*
 ![This is an image](https://github.com/iggyim/photography_1/blob/main/docs/mono_epoch/street_at_night.JPG?raw=true)
 
--
+
 ___
 *america's future*
 ![This is an image](https://github.com/iggyim/photography_1/blob/main/docs/mono_epoch/americas_future.JPG?raw=true)
