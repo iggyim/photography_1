@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+## epoch of the monochrome 
+June
+ 
+__________
 
-You can use the [editor on GitHub](https://github.com/iggyim/photography_1/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+# street at nacht
+![This is an image](https://github.com/iggyim/photography_1/blob/main/docs/mono_epoch/street_at_night.JPG?raw=true)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+___
+# america's future
+![This is an image](https://github.com/iggyim/photography_1/blob/main/docs/mono_epoch/americas_future.JPG?raw=true)
 
-### Markdown
+___
+# broke my heart like how glass breaks
+![This is an image](https://github.com/iggyim/photography_1/blob/main/docs/mono_epoch/broke_my_heart_like_how_glass_breaks.JPG?raw=true)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+___
+# if you look closely
+![This is an image](https://github.com/iggyim/photography_1/blob/main/docs/mono_epoch/if_you_look_closely.JPG?raw=true)
 
-```markdown
-Syntax highlighted code block
+___
+# day or night?
+![This is an image](https://github.com/iggyim/photography_1/blob/main/docs/mono_epoch/day_or_night.JPG?raw=true)
 
-# Header 1
-## Header 2
-### Header 3
+___
+# ghost of him
+![This is an image](https://github.com/iggyim/photography_1/blob/main/docs/mono_epoch/ghost_of_him.JPG?raw=true)
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/iggyim/photography_1/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+___
+# still life of a dead banana and her friends
+![This is an image](https://github.com/iggyim/photography_1/blob/main/docs/mono_epoch/still_life.JPG?raw=true)
